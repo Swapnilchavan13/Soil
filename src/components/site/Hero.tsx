@@ -42,7 +42,7 @@ export function Hero() {
           <div className="lg:col-span-6 relative reveal" style={{ animationDelay: "0.15s" }}>
             <div className="relative rounded-2xl overflow-hidden shadow-[var(--shadow-deep)] aspect-[16/10]">
               <img
-                src={heroImg}
+                src={"https://iili.io/fe5y8CB.jpg"}
                 alt="Split scene: degraded burnt stubble field on the left, restored soil with biochar being applied by a farmer on the right"
                 width={1920}
                 height={1080}
@@ -63,7 +63,7 @@ export function Hero() {
                 <div className="leading-tight">
                   <div className="text-[10px] uppercase tracking-[0.16em] text-muted-foreground">Field 04-218</div>
                   <div className="text-sm font-medium text-charcoal" style={{ color: "var(--charcoal)" }}>
-                    Karnal, Haryana
+                    Bandhavgarh,  Madhya Pradesh
                   </div>
                 </div>
               </div>

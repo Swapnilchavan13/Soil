@@ -1,19 +1,17 @@
-import farmer from "@/assets/farmer-portrait.jpg";
-import biocharHands from "@/assets/biochar-hands.jpg";
-import riceStraw from "@/assets/rice-straw.jpg";
+
 
 const stories = [
   {
-    img: farmer,
+    img: "https://static.vecteezy.com/system/resources/thumbnails/079/550/189/small/happy-indian-farmer-holding-rice-bundle-in-field-with-mountains-photo.jpeg",
     name: "Ramesh Kumar",
-    place: "Karnal, Haryana",
+    place: "Bandhavgarh, Madhya Pradesh",
     crop: "Basmati Rice · 1.2 acres",
     quote:
       "The first season after B3, the soil felt different in my hands. Softer. It held water longer.",
     note: "Application designed to improve soil carbon and reduce excess fertiliser dependence.",
   },
   {
-    img: biocharHands,
+    img: "https://iili.io/q5D0eff.jpg",
     name: "Anita Devi",
     place: "Sangrur, Punjab",
     crop: "Wheat & Paddy · 2.4 acres",
@@ -22,7 +20,7 @@ const stories = [
     note: "Crop residue from her own field is being processed back into B3 for the region.",
   },
   {
-    img: riceStraw,
+    img: "https://iili.io/q5tUHEQ.jpg",
     name: "Prakash N.",
     place: "Mandya, Karnataka",
     crop: "Sugarcane · 3.0 acres",

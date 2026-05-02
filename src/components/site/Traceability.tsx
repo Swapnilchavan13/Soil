@@ -65,7 +65,7 @@ export function Traceability() {
                 <div className="grid md:grid-cols-5">
                   <div className="md:col-span-2 relative aspect-[4/5] md:aspect-auto">
                     <img
-                      src={farmer}
+                      src={"https://static.vecteezy.com/system/resources/thumbnails/079/550/189/small/happy-indian-farmer-holding-rice-bundle-in-field-with-mountains-photo.jpeg"}
                       alt="Indian farmer portrait in his rice field"
                       loading="lazy"
                       width={1024}
@@ -115,7 +115,7 @@ export function Traceability() {
                 </span>
                 <div className="leading-tight">
                   <div className="text-[10px] uppercase tracking-[0.16em] text-muted-foreground">Geo-tagged</div>
-                  <div className="text-sm font-medium">Karnal, Haryana</div>
+                  <div className="text-sm font-medium">Bandhavgarh, Madhya Pradesh</div>
                 </div>
               </div>
             </div>

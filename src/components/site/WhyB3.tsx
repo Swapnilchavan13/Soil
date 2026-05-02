@@ -86,7 +86,7 @@ export function WhyB3() {
           <div className="lg:col-span-5">
             <figure className="rounded-2xl overflow-hidden border border-border">
               <img
-                src={macro}
+                src={"https://iili.io/BJ5PVIe.jpg"}
                 alt="Macro close-up of biochar granules and soil texture"
                 loading="lazy"
                 className="w-full h-auto"

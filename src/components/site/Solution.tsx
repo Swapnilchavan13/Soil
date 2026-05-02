@@ -37,7 +37,7 @@ export function Solution() {
         <div className="grid md:grid-cols-2 gap-4 mb-12">
           <figure className="relative aspect-[5/3] rounded-2xl overflow-hidden">
             <img
-              src={riceStraw}
+              src={"https://iili.io/f51ybef.jpg"}
               alt="Golden rice straw rows in an Indian field at dusk"
               loading="lazy"
               width={1280}
@@ -50,7 +50,7 @@ export function Solution() {
           </figure>
           <figure className="relative aspect-[5/3] rounded-2xl overflow-hidden">
             <img
-              src={biocharMacro}
+              src={"https://iili.io/qcZWAv9.jpg"}
               alt="Macro photograph of porous black biochar granules"
               loading="lazy"
               width={1024}
