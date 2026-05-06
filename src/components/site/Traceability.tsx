@@ -65,7 +65,7 @@ export function Traceability() {
                 <div className="grid md:grid-cols-5">
                   <div className="md:col-span-2 relative aspect-[4/5] md:aspect-auto">
                     <img
-                      src={"https://static.vecteezy.com/system/resources/thumbnails/079/550/189/small/happy-indian-farmer-holding-rice-bundle-in-field-with-mountains-photo.jpeg"}
+                      src={"https://iili.io/BZTMc7t.jpg"}
                       alt="Indian farmer portrait in his rice field"
                       loading="lazy"
                       width={1024}
@@ -84,7 +84,7 @@ export function Traceability() {
 
                     <div className="grid grid-cols-2 gap-5 text-sm">
                       <Field label="Farmer" value="Ramesh Kumar" />
-                      <Field label="Village" value="Nigdhu, Karnal" />
+                      <Field label="Village" value="Bandhavgarh" />
                       <Field label="Crop" value="Basmati Rice" />
                       <Field label="Applied On" value="18 Apr 2025" />
                       <Field label="Geo-Pin" value="29.6857° N, 76.9905° E" />

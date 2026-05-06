@@ -2,7 +2,7 @@
 
 const stories = [
   {
-    img: "https://static.vecteezy.com/system/resources/thumbnails/079/550/189/small/happy-indian-farmer-holding-rice-bundle-in-field-with-mountains-photo.jpeg",
+    img: "https://iili.io/BZTMc7t.jpg",
     name: "Ramesh Kumar",
     place: "Bandhavgarh, Madhya Pradesh",
     crop: "Basmati Rice · 1.2 acres",
@@ -13,7 +13,7 @@ const stories = [
   {
     img: "https://iili.io/q5D0eff.jpg",
     name: "Anita Devi",
-    place: "Sangrur, Punjab",
+    place: "Rajgarh, Himachal Pradesh",
     crop: "Wheat & Paddy · 2.4 acres",
     quote:
       "We used to burn the straw because there was no choice. Now it returns to our field as black soil.",
@@ -22,7 +22,7 @@ const stories = [
   {
     img: "https://iili.io/q5tUHEQ.jpg",
     name: "Prakash N.",
-    place: "Mandya, Karnataka",
+    place: "Pilibhit, Damoh",
     crop: "Sugarcane · 3.0 acres",
     quote:
       "The roots reach deeper now. That is something I can see — not just measure on paper.",
