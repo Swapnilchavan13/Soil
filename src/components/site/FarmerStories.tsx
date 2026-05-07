@@ -22,7 +22,7 @@ const stories = [
   {
     img: "https://iili.io/q5tUHEQ.jpg",
     name: "Prakash N.",
-    place: "Pilibhit, Damoh",
+    place: "Pilibhit, Madhya Pradesh",
     crop: "Sugarcane · 3.0 acres",
     quote:
       "The roots reach deeper now. That is something I can see — not just measure on paper.",
